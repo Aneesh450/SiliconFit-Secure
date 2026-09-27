@@ -1,6 +1,6 @@
 # SiliconFit Secure
 
-**Security → Debug → Fix → Test → Optimize → Verify → Release**
+|**Security -- Debug -- Fix -- Test -- Optimize -- Verify -- Release**|
 
 A deterministic developer workflow platform that turns a problem into evidence:
 technology choice, workflow plan, security scan, debug analysis, processor-fit assessment,
